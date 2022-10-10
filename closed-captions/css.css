@@ -99,7 +99,7 @@ You probably want to change the styling.
 }
 
 .p1.on {
-	background: green;
+	background: blue;
 	color: red;
 	font-size: 200px;
 }
