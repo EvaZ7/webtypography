@@ -1,4 +1,4 @@
-# Web Typography, 2020/2021
+## Web Typography, 2020/2021
 
 Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Nu bestaat er zoiets als *closed caption*, wat een type ondertiteling is waarbij ook dingen als omgevingsgeluiden en de muziek beschreven worden. Hierdoor krijgt een kijker die informatie wel binnen.
 
@@ -66,6 +66,8 @@ Er verschijnen ook classes op de body op momenten dat er geluiden worden afgespe
 
 Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
 
+![pinterest collage](images/kleur.pinterest.png)
+
 # Design rationale
 
 ## Contents 📑
@@ -84,6 +86,7 @@ Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [cap
 ## Analysing the movie
 
 ### Color
+
 
 ### Elements
 
