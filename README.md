@@ -64,20 +64,33 @@ Er verschijnen ook classes op de body op momenten dat er geluiden worden afgespe
 
 *let op,* de geluiden zijn niet compleet, dit zal je zelf moeten aanvullen.
 
-## Een eigen fragment (afgeraden, uitgebreide onderbouwing is nodig)
-
-Je kan er ook voor kiezen om een eigen, *beter* fragment te gebruiken. Dit wordt afgeraden. De tijd die je besteedt aan het zoeken naar dat fragment kan je beter besteden aan het werken aan de opdracht. Bovendien blijkt dat er vaak fragmenten worden gekozen die niet goed voldoen aan de opdracht. Als je een ander fragment kiest dan *moet* je dit goed onderbouwd voorleggen aan je docent. De deadline hiervoor is vrijdagochtend in de eerste week.
-
-### Waar moet je op letten bij het kiezen van een eigen fragment.
-Lees de opdracht nog eens goed door. Waar gaat het ook al weer precies om? 
-
-Voor een goede onderbouwing van je keuze voor een ander fragment moet je deze vragen in elk geval beantwoorden:
-
-- Welke informatie zit er in de audio die echt niet zichtbaar is?
-- Welke rol speelt de audio in het fragment?
-- Werkt de scene nog zonder geluid?
-- Waarom is dit fragment beter dan het aangeboden fragment?
-
 Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
 
-Als je de closed captions wil bewerken dan kan je een tool zoals [Amber Script](https://www.amberscript.com/en) gebruiken. Daar kan je exporteren als `.srt`, en die kan je weer door de generator halen.
+# Design rationale
+
+## Contents 📑
+
+- _About this project_ Why is it useful?
+- _What does it?_ What is it all about and how does it work?
+- _Analysing the movie_ Colors, themes and feelings
+- _Translating sound_ How to make sounds visual
+- _Tygography_ Choices and more
+- _Bringing it all together_ How and why
+- _Author_ This project is made by...
+- _Sources_ APA list with used sources
+
+## About this project
+## What does it?
+## Analysing the movie
+
+### Color
+
+### Elements
+
+### Look and feel
+
+## Translating sound
+## Tygography
+## Bringing it all together
+## Author
+## Sources
