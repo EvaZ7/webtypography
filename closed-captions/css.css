@@ -19,7 +19,15 @@ Feel free to adjust the defaults to your needs.
 }
 .voice1 {
 	font-family: "Brenner Mono Regular";
-	color:  rgb(166, 3, 3);
+	font-size: 20px;
+	color: rgb(242, 5, 5);
+	text-shadow:
+	0 0 3px rgb(242, 5, 5),
+    0 0 10px rgb(242, 5, 5),
+    0 0 40px rgb(166, 3, 3),
+    0 0 60px rgb(166, 3, 3),
+    0 0 80px rgb(166, 3, 3),
+    0 0 95px rgb(166, 3, 3);
 }
 .voice2 {
 	font-family: "Brenner Sans Medium";
@@ -35,8 +43,11 @@ Feel free to adjust the defaults to your needs.
 }
 .voice3 {
 	font-family: "Brenner Sans Bold";
-	color: rgb(112, 112, 124);
+	font-size: 30px;
+	font-style: italic;
 	text-decoration: underline;
+	color: rgb(122, 153, 150);
+	padding-left: 380px; /*ff oplossen centreren*/
 }
 
 /* **********************************************
@@ -60,60 +71,96 @@ You probably want to change the styling.
 }
 .p0.on span:nth-of-type(2) {
 	opacity: 1;
-	color: blue;
-	/*transition: 0s .4s;
-	margin-right: -.25em;
-	font-weight: 400; */
+	text-shadow: none;
+	font-family: "Brenner Mono Bold";
+	font-style: italic;
+	background-color: black;
+	box-shadow: 2px 2px 7px rgb(166, 3, 3);
+	transition: 0s .4s;
+	padding: 5px 15px 5px 10px;
+	margin-right: -.80em;
 }
 .p0.on span:nth-of-type(3) {
 	opacity: 1;
-	/* transition: 0s .5s;
-	margin-right: -.25em;
-	font-weight: 600; */
+	text-shadow: none;
+	font-family: "Brenner Mono Bold";
+	font-style: italic;
+	background-color: black;
+	box-shadow: 2px 2px 7px rgb(166, 3, 3);
+	transition: 0s .5s;
+	padding: 5px 15px 5px 10px;
+	margin-right: -.80em;
 }
 .p0.on span:nth-of-type(4) {
 	opacity: 1;
-	/* transition: 0s .7s;
-	margin-right: -.25em;
+	text-shadow: none;
+	font-family: "Brenner Mono Bold";
+	font-style: italic;
+	background-color: black;
+	box-shadow: 2px 2px 7px rgb(166, 3, 3);
+	transition: 0s .7s;
+	/*margin-right: -.25em;
 	font-weight: 800; */
+	padding: 5px 15px 5px 10px;
+	margin-right: -.80em;
 }
 .p0.on span:nth-of-type(5) {
 	opacity: 1;
-	/* transition: 0s 1.1s;
-	margin-right: -.25em;
-	font-family: "brenner sans"; */
+	text-shadow: none;
+	font-family: "Brenner Mono Bold";
+	font-style: italic;
+	background-color: black;
+	box-shadow: 2px 2px 7px rgb(166, 3, 3);
+	transition: 0s 1.1s;
+	padding: 5px 15px 5px 10px;
+	margin-right: -.80em;
 }
 .p0.on span:nth-of-type(6) {
 	opacity: 1;
-	/* transition: 0s 1.4s;
-	margin-right: -.25em;
-	font-family: "brenner display"; */
+	text-shadow: none;
+	font-family: "Brenner Mono Bold";
+	font-style: italic;
+	background-color: black;
+	box-shadow: 2px 2px 7px rgb(166, 3, 3);
+	transition: 0s 1.4s;
+	padding: 5px 15px 5px 10px;
+	margin-right: -.80em;
 }
 .p0.on span:nth-of-type(7) {
 	opacity: 1;
-	/* transition: 0s 1.7s;
-	margin-right: -.25em;
-	font-family: "brenner script"; */
+	text-shadow: none;
+	font-family: "Brenner Mono Bold";
+	font-style: italic;
+	background-color: black;
+	box-shadow: 2px 2px 7px rgb(166, 3, 3);
+	transition: 0s 1.7s;
+	padding: 5px 15px 5px 10px;
+	margin-right: -.80em;
 }
 .p0.on span:nth-of-type(8) {
 	opacity: 1;
-	/* transition: 0s 2s;
-	font-family: "brenner script"; */
+	text-shadow: none;
+	font-family: "Brenner Mono Bold";
+	font-style: italic;
+	background-color: black;
+	box-shadow: 2px 2px 7px rgb(166, 3, 3);
+	transition: 0s 2s;
+	padding: 5px 10px 5px 10px;
 }
 .p0.on span:nth-of-type(9) {
 	opacity: 1;
-	/* transition: 0s 3s;
-	font-family: "brenner Sans condensed"; */
+	transition: 0s 3s;
+	/* font-family: "brenner Sans condensed"; */
 }
 .p0.on span:nth-of-type(10) {
 	opacity: 1;
-	/* transition: 0s 3.2s;
-	font-family: "brenner mono"; */
+	transition: 0s 3.2s;
+	/* font-family: "brenner mono"; */
 }
 .p0.on span:nth-of-type(11) {
 	opacity: 1;
-	/* transition: 0s 3.7s;
-	font-family: "brenner slab"; */
+	transition: 0s 3.7s;
+	/* font-family: "brenner slab"; */
 }
 
 /*** Tweede zin ***/

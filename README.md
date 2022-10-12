@@ -77,7 +77,7 @@ Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [cap
 - _Analysing the movie_ Colors, themes and feelings
 - _Translating sound_ How to make sounds visual
 - _Tygography_ Choices and more
-- _Bringing it all together_ How and why
+- _Bringing it all together_ Exclusive design principles and end result
 - _Author_ This project is made by...
 - _Sources_ APA list with used sources
 
@@ -87,6 +87,21 @@ Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [cap
 
 ### Color
 
+In the movie there are various types of bright and dark colors.
+
+#### What are the colors?
+
+To get a better view after watching the movie, I decided to throw all the elements together in a Pinterest board. This made it easier for me to extract the colors from the aesthetic of the movie.
+![pinterest collage](images/kleur.pinterest.png)
+
+![pinterest collage](images/kleur.rood.png)
+![pinterest collage](images/kleur.blauw.png)
+![pinterest collage](images/kleur.overige.png)
+![pinterest collage](images/kleur.poster.png)
+
+#### Use of colors
+
+In the movie there are various types of bright and dark colors. Each of these colors has a different meaning to themselves, for example: one is used to express sadnass and the other for authority. Let me explain these hidden meanings of the colors to you below.
 
 ### Elements
 
