@@ -4,7 +4,7 @@ Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis 
 
 Alleen wordt die auditieve informatie nogal neutraal beschreven. Het geluid van huilend persoon zou bijvoorbeeld beschreven kunnen worden als *snikgeluid op de achtergrond*. En iemand die lacht zou geschreven kunnen worden als *iemand lacht.* Heel neutraal, bijna zakelijk, en bovendien allebei in precies hetzelfde neutrale lettertype. Terwijl het toch echt over twee heel verschillende emoties gaat. 
 
-Dat kan visueel sterker. 
+Dat kan visueel sterker.
 
 En dat gaan jullie doen.
 
@@ -70,17 +70,22 @@ Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [cap
 
 ## Contents 📑
 
-- _About this project_ Why is it useful?
-- _What does it?_ What is it all about and how does it work?
+- _About this project_ What is it all?
 - _Analysing the movie_ Colors, themes and feelings
 - _Translating sound_ How to make sounds visual
 - _Tygography_ Choices and more
-- _Bringing it all together_ Exclusive design principles and end result
+- _Bringing it all together_ Exclusive design principles and the end result
 - _Author_ This project is made by...
 - _Sources_ APA list with used sources
 
 ## About this project
-## What does it?
+
+The experience of watching a movie when you're deaf is very different from when you're not. This is not only due to the absence of sound, but also the feelings these sounds bring with them. Subtitles are often bland and do not match with the feeling of the scene at all. Change this, and deaf people will have a far better experience when they watch movies.
+
+With this project I am going to change the experiences of deaf people by making different sounds and subtitles more visual and add feeling to them. I'll use a fragment from the movie Blade Runner for this project.
+I will change the experience for deaf people by animating subtitles and the background, by using different colors to express feelings and by using the right typography. To get all of these things right, I will analyze the movie first and do some extra research. 
+All of these animations and changes will be programmed by using HTML, CSS and JavaScript.
+
 ## Analysing the movie
 
 ### Color
@@ -113,6 +118,9 @@ Besides these main colors, there are also colors used for displaying different f
 ## Tygography
 ## Bringing it all together
 ## Author
+
+This project is made by Eva Zaadnoordijk for the course Web typography in October 2022, for the minor Visual Interface Design. Student number: 500847567 and teacher Vasilis van Gemert.
+
 ## Sources
 
 Dry, J. (2018, 31 januari). Denis Villeneuve’s Brilliant Use of Color Theory Explained in One Illuminating Video — Watch. IndieWire. Geraadpleegd op 13 oktober 2022, van https://www.indiewire.com/2018/01/denis-villeneuve-color-theory-video-1201923620/ 
