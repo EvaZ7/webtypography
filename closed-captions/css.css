@@ -182,8 +182,17 @@ Sounds.
 .sound3 {
 	animation: gradient 2s ease 1;
 }
-.sound4 {
-	background: #000000;
+.sound5 {
+	animation: none;
+}
+.sound6 {
+	animation: gradient 2s ease 1;
+	/*animation: name duration timing-function delay iteration-count direction fill-mode;*/
+}
+.sound7 {
+	background: hotpink;
+	animation: gradient 2s ease 1;
+	/*animation: name duration timing-function delay iteration-count direction fill-mode;*/
 }
 
 /* The moment the class .sound1 is added to the body, the movie makes a turn */
