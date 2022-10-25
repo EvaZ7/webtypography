@@ -93,40 +93,89 @@ All of these animations and changes will be programmed by using HTML, CSS and Ja
 The use of colors in this movie really distinguishes itself from other movies. The colors are often used to express feeling, to set the tone of a scene and to display a character. Instead of displaying the time of day or a space. The director uses discordant colors to create tension and unease and uses associative colors to display a character's emotions, for example blue when someone is sad (Dry, 2018). I'll  explain these hidden meanings of the colors to you below.
 
 But first, to get a better view of things after watching the movie, I decided to throw all the elements together on a Pinterest board. This made it easier for me to extract the colors from the aesthetic of the movie.
+
 ![pinterest collage](images/kleur.pinterest.png)
+
 
 To make sure these were the right colors, I also used the movie poster to extract colors from. These colors turned out to be about the same.
 ![movie poster](images/kleur.poster.png)
 
+
 The color orange in Blade Runner is used to create a feeling of mystery, warning and action. Orange is a color that is overall known to be associated with these feelings. But orange is also the color that stands for transformation, which is what this scene is all about, the transition between act two and three. This color is only used in scenes where agent K is in Las Vegas. This immediately sets the tone for this city and, besides that, gives it a surrealistic effect (Santini, 2019).
+
 ![color orange collage](images/kleur.orange.png)
 
+
 Besides being one of the colors that stands for technology (Santini, 2019), this color also serves another purpose in this movie. It displays the mental state of characters. The color blue is added to scenes where agent K is feeling down or sad. This is used in multiple different scenes throughout the movie.
+
 ![color blue collage](images/kleur.blauw.png)
 
+
 One of the other main colors of this movie is white. It is used to represent solitude and truth. But in different scenes it is also used to give an idea that some places are out of space and time, making agent K seem like a stranger to these places (Baker, 2021). Gray is also often used to create this feeling, but this color is more used to display the lifelessness of the environment (Santini, 2019).
+
 ![colors white and gray collage](images/kleur.whiteandgray.png)
 
+
 Besides these main colors, there are also colors used for displaying different feelings. Yellow is meant to display information and is also the color that is used to display the company that creates the 'replicants'. The colors pink and purple are used to display innocence and romance, in the movie it is used to display agent K's romantic interests (Baker, 2021).
+
 ![other colors collage](images/colors.rest.png)
+
 
 ### Elements
 
-Misty City
-
-Neon signs
-
-Minimalism
+Misty City, Neon signs, Minimalism
 
 ### Look and feel
 
-## Mindmap
+### Mindmap
 
-## Coclusions
+### Coclusions
 
 ## Translating sound
+
+In this movie, there are various types of sounds used, from alarms to background music. Each of these sounds is there to create a certain effect or to evoke an emotion. I listened to all of these sounds carefully so I can translate them into visual shapes and lights. My color research helped me a lot with making certain design choices. I'll explain each of these choices below.
+
+### Alarm
+
+The alarm in the movie is a clear but not too loud sound, that's why I chose not to make the animation enormous or too popping. With this in the back of my mind, I created an orange box shadow around the video with a glow effect. I made the glow effect because this is a frequently used element in the movie and I picked the color orange because it stands for warning and mystery, that's the function of this small alarm, mystery because we don't know what the alarm is for yet.
+
+
+### Sirens
+
+The sound of the police sirens is there in the movie to indicate that officer K is now at the LAPD station. It's the sound of a classic police siren, so that's why I chose to make the colors red and blue flash on the left and right of the video. I gave these colors a slight glow effect to blend in with the aesthetics of the movie.
+
+
+### Alarm scan
+
+The alarm scan is a unique sound that repeats itself multiple times during this scene. It starts with a low noise that ends with a sudden high pitch. It sounds like a scan that has completed. Because of this, I made a scanning animation on the whole background in orange and black, that moves from right to left and ends with a screen filling orange. I chose the color orange because it creates the feeling of warning and made the color screen filling at the end to represent the high pitch ending of the sound.
+
+
+### Peep tone
+
+The peep tone is a very loud annoying noise in the movie, it just keeps getting higher, and then it suddenly stops. To represent this loud noise, I made a flashing box shadow, in white, that keeps getting faster and bigger until it suddenly stops. I also made the video itself move, slow at first, but then it kept moving faster until the whole screen vibrated. I chose the color white because it represents the high pitch noise and because of the contrast with the black background, this created a more intense effect. But also because it represents solitude with matches this hollow peep. I made both of these effects build up with the sound until it was so annoying to look at as the peep itself.
+
+
+### Tense music
+
+With the tense music, I decided to go for a little more subtle animation because it's the background music. This music builds up in tension and volume until the end of it. I created a little faded square on the background that moves from the top left to the bottom right, changing colors during this. It is a slightly luminous animation to match it with the movie's aesthetics. I chose the colors blue to set an anxious, tense mood of the noise it's a scene where agent K isn't doing so well and the music also represents this. I made the animation go from top right to bottom left to create that sound, it sounded like it was going from left to right.  I made the animation go faster in the end to build up the tension, just like the sound.
+
+
 ## Tygography
+
+### Officer K
+
+
+### Baseline test voice
+
+### Baseline test man voice
+
 ## Bringing it all together
+
+- Study Situation
+- Ignore Conventions
+- Prioritise Identity
+- Add Nonsense
+
 ## Author
 
 This project is made by Eva Zaadnoordijk for the course Web typography in October 2022, for the minor Visual Interface Design. Student number: 500847567 and teacher Vasilis van Gemert.

@@ -145,8 +145,6 @@ You probably want to change the styling.
 	background-color: black;
 	box-shadow: 2px 2px 7px rgb(178, 178, 178);
 	transition: 0s .7s;
-	/*margin-right: -.25em;
-	font-weight: 800; */
 	padding: 5px 15px 5px 10px;
 	margin-right: -.80em;
 }
