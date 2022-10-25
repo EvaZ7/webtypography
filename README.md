@@ -70,7 +70,7 @@ Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [cap
 
 ## Contents 📑
 
-- _About this project_ What is it all?
+- _About this project_ What is it all about?
 - _Analysing the movie_ Colors, themes and feelings
 - _Translating sound_ How to make sounds visual
 - _Tygography_ Choices and more
@@ -99,7 +99,7 @@ To make sure these were the right colors, I also used the movie poster to extrac
 ![movie poster](images/kleur.poster.png)
 
 The color orange in Blade Runner is used to create a feeling of mystery, warning and action. Orange is a color that is overall known to be associated with these feelings. But orange is also the color that stands for transformation, which is what this scene is all about, the transition between act two and three. This color is only used in scenes where agent K is in Las Vegas. This immediately sets the tone for this city and, besides that, gives it a surrealistic effect (Santini, 2019).
-![color orange collage](images/kleur.orange.png) change it
+![color orange collage](images/kleur.orange.png)
 
 Besides being one of the colors that stands for technology (Santini, 2019), this color also serves another purpose in this movie. It displays the mental state of characters. The color blue is added to scenes where agent K is feeling down or sad. This is used in multiple different scenes throughout the movie.
 ![color blue collage](images/kleur.blauw.png)
