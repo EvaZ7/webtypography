@@ -23,48 +23,6 @@ Je levert ook een *screen recording* met audio op van je fragment. Dit is een vi
 
 De beoordeling is mondeling en volgt [de rubric uit het beoordelingsformulier](web-typografie-beoordeling.pdf).
 
-## Typografische restricties
-
-Je *moet* een van deze twee opties kiezen, en je keuze moet je onderbouwen. In je readme staat een uitleg over je overwegingen om de ene of de andere restrictie te kiezen.
-
-### Optie 1: Systeemfont
-
-De eerste optie is dat je gebruik maakt van het zogenaamde *systeemfont* van degene die naar jouw werk kijkt. Dit font verschilt per operating system, en het verschilt soms zelfs per versie van het operating system. Het is ook aan te passen door de gebruiker zelf. 
-
-Je hebt dus geen controle over welk lettertype er precies gebruikt wordt. Het levert dus een onzeker, en beperkt typografisch palet op. Je hebt geen *light* versies, of *extrabold*. En ook geen serif en sans-serif versie van dezelfde familie. In dit geval heb je alleen de beschikking over normal, **bold** en _italic_. Dit heeft natuurlijk ook zijn voordelen!
-
-### Optie 2: Brenner
-
-Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. [Hier kan je je verdiepen in dit font](https://www.typotheque.com/blog/brenner_an_unusual_typeface_family_with_distinct_voices). Als je kiest voor dit font dan heb je de beschikking over een *sans serif*, een *condensed*, een *serif*, een *monotype*, een *slab*, een *display* en een *script* versie. En veel van deze versies hebben varianten van *light* tot *bold*, en allemaal zowel *bold* als *italic*.
-
-Met Brenner zijn er natuurlijk veel en veel meer mogelijkheden dan met systeemfonts. Dat kan zowel een voordeel als een nadeel zijn. 
-
-Voor een overzicht, zie [de brenner.pdf](brenner.pdf).
-
-## Het fragment
-
-Ik heb een fragment voorbereid. Het gaat om twee scenes uit *Blade Runner 2049*. De captions staan in de HTML, en ze verschijnen in sync met de video. [Kijk maar](closed-captions/index.html).
-
-### De captions
-
-De captions staan in de html, in het bestand index.html. Je kan aan elke paragraaf eventueel een of meer classes toevoegen. Bijvoorbeeld `voice1` of `voice2 soft`. Classes voeg je handmatig toe in de html.
-
-Met JavaScript worden er een paar dingen extra gedaan: 
-
-- er wordt aan elke paragraaf een unieke class toegevoegd (`p0`, `p1`, etc)
-- Elk woord wordt in een aparte `span` gezet. Hierdoor kan je elk woord apart stylen, en eventueel ook [na elkaar laten verschijnen](https://github.com/cmda-minor-vid/web-typography-18-19/blob/master/closed-captions/css.css#L41).
-
-### Tijdens het afspelen
-
-Tijdens het afspeelen wordt er een class `on` op de caption gezet als hij moet verschijnen, en een class `off` als hij klaar is. *Zowel class `on` als class `off` blijft op de caption staan!*
-
-De timimg van de captions kan je aanpassen in [closed-captions/captions.js](closed-captions/captions.js).
-
-Er verschijnen ook classes op de body op momenten dat er geluiden worden afgespeeld, zoals `sound1` en `sound2`. Je kan geluiden toevoegen in [closed-captions/sounds.js](closed-captions/sounds.js).
-
-*let op,* de geluiden zijn niet compleet, dit zal je zelf moeten aanvullen.
-
-Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
 
 # Design rationale
 
@@ -75,6 +33,7 @@ Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [cap
 - _Translating sound_ How to make sounds visual
 - _Tygography_ Choices and more
 - _Bringing it all together_ Exclusive design principles and the end result
+- _Progress_ Feedback and insights
 - _Author_ This project is made by...
 - _Sources_ APA list with used sources
 
@@ -162,19 +121,42 @@ With the tense music, I decided to go for a little more subtle animation because
 
 ## Tygography
 
-### Officer K
+### Agent K
 
+For Agentr K I chose the font Brenner sans medium. I picked this font because this is the voice of the main character, this font represents him well because it includes bold simple letters that are easy to read, this fits his calm character. I gave these letters a glow effect to match with the aesthetics of the movie and made them blue to represents agent K's mental state in this scene, which is a little down after the events that happened before this scene. In the scene that comes next, I made the letters even a darker blue because agent K feels even more down in this scene. I also checked the contrast of this color, which is fine for bold letters and to improve the readability of them even more, because of the animations, I added a black background to the text.
 
 ### Baseline test voice
 
+For the voice of the baseline test, I chose the font Brenner Mono Regular. I picked this font because I think it suited the voice because it has a little robotic tone in it. The font itself also reminded me of a robot. Because of it has sharp edges, straight lines and endings of letters sticking out. I decided to go with the regular version of this font because it isn't the voice of a real human or character we actually get to see, which makes it minor to agent K's voice. This font also has a slight glow effect, just like agent K's font, to match the aesthetic of the movie. I made the font color white because it is an authoritative voice that is a bit empty, the color white represents this. I also improved the readability of the font by adding a black background to the text. The only thing that is different from the regular design is agent K's officer number, I made this part Italic because it sounds different from the rest of the voice.
+
+### Angry officer
+
+For the voice of the angry officer, I decided to use the font Brenner Sans Bold Italic.  I picked this font because it is bold italic, bold because this sentence is a call-out to agent K, and to keep consistency with the other sentences, and italic to show that this sentence is different from others. Because this is a sneer to agent K I also added underlined the text. If you listen carefully, you will notice that the sentence is a sort of whisper, That is why I added an extra blurry effect to it, to make it look like more of a whisper and make it look different from when it would be said out loud. For the color of this sentence, I picked gray because the color gray is used in this movie to display that agent K is a sort of stranger to this world, an outsider. This sneer is a mere perfect example of this.
+
 ### Baseline test man voice
+
+For the voice of the baseline test man, I picked the same font as the regular baseline test voice, but I made it bold.  Because this voice is not similar to the regular robotic baseline test voice, but more human. I also added a glow effect to match the aesthetics of the movie, but to improve readability reduced this effect a little. I used this font for fragment one and the entire baseline test in fragment two because those voices sounded the same to me.
 
 ## Bringing it all together
 
+The result is a video with unique animations and subtitles that are completely adapted to the movie itself.
+
 - Study Situation
+I really took a closer look a the special color theory that is used here and to what makes this movie so different from others. I Really studied the situation in the designing of the movie, so I can adapt my design to this. Furthermore, I also listened to all the sounds to carefully design them, these sounds are also very different from each other and therefore each one needs their own unique animation. This does not exclude the subtitles that also need extra attention to detail.
+
 - Ignore Conventions
+I ignored many conventions while shaping my design. The standard subtitles for deaf people are very plain and without any emotion. I changed that, I look closer at this audience and put my focus on them. By doing so, I created a unique experience that fits the unique aesthetic of this movie. I changed almost everything about the subtitles and gave each character their own unique set of pairs of these that was adapted to their character. I went beyond the standards by doing so.
+
 - Prioritise Identity
+I really put my focus on the aesthetics of this movie while designing and dove into this a little deeper by researching the colors used in the movie and how I can use them best according to the color theory. Because of this, the design really matches the movie and makes it unique. I also took the identity of each character and gave them their own suitable style of typography in the subtitles that matches their character. By doing so I prioritize identity not only by identifying the characters but also by making my fitting to the style of the movie.
+
 - Add Nonsense
+And of course, I also added some nonsense to my project. Most of the shapes of the animations weren't based off anything related to the movie except for their brightness flickering and color. The police sirens are a perfect example of nonsense, they are designed that way just because that is what police sirens look like, and they flicker red and blue just because they're supposed to do that. As you will notice in the first sentence I decided to make agent K's officer number in italic, this is also a form of adding nonsense.
+
+## Progress
+
+My progress during this project went well. I started slowly, but once I got the idea of what the assignment was about, I dived into it deeper. I started first by watching the movie to get a better feeling of what it was all about, looking back this was a great idea because I Really understood the scenes and the aesthetics of this video more. Furthermore, I wanted to dive a little deeper into the movie after I watched it, the cinematography and filming of the movie spoke to me. When I did some more research, I focused mainly on the colors and found out that this movie uses a practice called the color theory. After a few days, I've got my first round of feedback, which was to look at the meaning of those colors more closely, so I did. I used this color theory and my research to implement this in my project and added certain colors to certain emotions during the scene. Then I started programming, the subtitles first, which went great. But I found it hard to program the sounds, making them visual.  I listened to these sounds more carefully and thinking of the things I associated with them. This helped me a lot. Then I've got my second round of feedback, which was to be more dramatic and bolder with the design of the sounds and to focus on them instead of the typography. I made my effects around sound bigger and more dramatic, I did this by using multiple effects and adding more color.
+When I look back I think I maybe should have started sooner with the programming of the sounds, so I could make more iterations on them and really lay my focus here. But overall, I'm satisfied with the end product.
 
 ## Author
 
