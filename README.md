@@ -110,12 +110,15 @@ For the voice of the baseline test man, I picked the same font as the regular ba
 The result is a video with unique animations and subtitles that are completely adapted to the movie itself.
 
 - Study Situation
+
 I really took a closer look a the special color theory that is used here and to what makes this movie so different from others. I Really studied the situation in the designing of the movie, so I can adapt my design to this. Furthermore, I also listened to all the sounds to carefully design them, these sounds are also very different from each other and therefore each one needs their own unique animation. This does not exclude the subtitles that also need extra attention to detail.
 
 - Ignore Conventions
+
 I ignored many conventions while shaping my design. The standard subtitles for deaf people are very plain and without any emotion. I changed that, I look closer at this audience and put my focus on them. By doing so, I created a unique experience that fits the unique aesthetic of this movie. I changed almost everything about the subtitles and gave each character their own unique set of pairs of these that was adapted to their character. I went beyond the standards by doing so.
 
 - Prioritise Identity
+
 I really put my focus on the aesthetics of this movie while designing and dove into this a little deeper by researching the colors used in the movie and how I can use them best according to the color theory. Because of this, the design really matches the movie and makes it unique. I also took the identity of each character and gave them their own suitable style of typography in the subtitles that matches their character. By doing so I prioritize identity not only by identifying the characters but also by making my fitting to the style of the movie.
 
 - Add Nonsense
