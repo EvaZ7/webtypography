@@ -58,12 +58,6 @@ Besides these main colors, there are also colors used for displaying different f
 
 Misty City, Neon signs, Minimalism
 
-### Look and feel
-
-### Mindmap
-
-### Coclusions
-
 ## Translating sound
 
 In this movie, there are various types of sounds used, from alarms to background music. Each of these sounds is there to create a certain effect or to evoke an emotion. I listened to all of these sounds carefully so I can translate them into visual shapes and lights. My color research helped me a lot with making certain design choices. I'll explain each of these choices below.
